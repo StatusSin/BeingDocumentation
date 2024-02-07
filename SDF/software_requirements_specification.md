@@ -1,6 +1,6 @@
 # Software Requirements Specification
 
- 5.1   Introduction
+5.1   Introduction
             
 5.2   Functional Requirements
 5.2.1 Functional Requirement 1
