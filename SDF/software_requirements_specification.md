@@ -42,12 +42,22 @@
              5.2.09.02 The Enemies shall serve as a barrier to slow players' progression towards goals.
              5.2.09.03 The Enemies shall grow increasingly challenging in parallel with players' abilities.
 
-5.3   Performance Requirements <br>
+## 5.3   Performance Requirements <br>
+            The performance will vary depending on the various hardware differences between users' computers as they play the game, and they can customize the settings to optimize for their respective devices.
 5.3.1 Performance Requirement 1 <br>
-                    .
-                    .
-                    .
-5.3.n Performance Requirement n <br>
-5.4   Environment Requirements <br>
-5.4.1 Development Environment Requirements <br>
-5.4.2 Execution Environment Requirements <br>
+
+                         Category          Requirement
+                  ----------------   -----------------
+                  Processor          Pentium II 266Mhz
+                  Hard Drive Space   10GB
+                  RAM                4GB
+                  Display            1080x1920, 256 colors
+                  Sound Card         Optional
+
+               The RAM is the minimum requirement necessary to support playing the game on the lowest settings.
+
+                      Category          Requirement
+                  ----------------   -----------------
+                  Operating System   Windows 10/11
+                  Compiler           C#
+                  Graphics           Unity Engine
