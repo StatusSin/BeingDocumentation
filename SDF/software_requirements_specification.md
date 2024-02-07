@@ -16,7 +16,7 @@
             - Sound Design
             - Enemies
 ### 5.2.01 Player Controller <br>
-            5.2.01.01 The Player Controller shall provide the player model with the ability to move and interact with the game world. 
+             5.2.01.01 The Player Controller shall provide the player model with the ability to move and interact with the game world. 
              5.2.01.02 The Player Controller is a 3rd person camera angle and can be moved around the player model by the user.
              5.2.01.03 The Player Controller will allow for key binds to be changed in settings
 ### 5.2.02 Playspaces <br>
