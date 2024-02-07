@@ -1,6 +1,6 @@
 # Software Requirements Specification
 
-5.1   Introduction (`<br>`)
+5.1   Introduction <br>
             
 5.2   Functional Requirements (`<br>`)
 5.2.1 Functional Requirement 1 (`<br>`)
