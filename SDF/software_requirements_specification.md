@@ -18,13 +18,22 @@
 ### 5.2.01 Player Controller <br>
             #### 5.2.01.01 The 
 ### 5.2.02 Playspaces <br>
-### 5.2.03 Graphical User Interface <br>
+            #### 5.2.02.01 The Playspaces shall serve as areas where the player can physically move around and interact with environmental elements. 
+### 5.2.03 Graphical User Interface <br> 
+            #### 5.2.03.01 The Graphical User Interface shall provide a menu system for players to access every function of the game.
+            #### 5.2.03.02 The Graphical User Interface shall provide sets of buttons to access the functions of the game.
+            #### 5.2.03.03 The Graphical User Interface shall allow players to use shortcut keys to access all menu functions of the game.
 ### 5.2.04 Models <br>
 ### 5.2.05 Animations <br>
+            #### 5.2.05.01 The Animations shall serve as visual indicators for players to distinguish mechanics and events.
 ### 5.2.06 Textures <br>
+            #### 5.2.06.01 The Textures shall enhance the aesthetics of the playspace environment to elevate player immersion. 
 ### 5.2.07 Music Design <br>
 ### 5.2.08 Sound Design <br>
 ### 5.2.09 Enemies <br>
+            #### 5.2.09.01 The Enemies shall create tension for players through combat.
+            #### 5.2.09.02 The Enemies shall serve as a barrier to slow players' progression towards goals.
+            #### 5.2.09.03 The Enemies shall grow increasingly challenging in parallel with players' abilities.
 
 
 5.3   Performance Requirements <br>
