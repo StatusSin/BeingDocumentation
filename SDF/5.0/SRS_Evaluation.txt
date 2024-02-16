@@ -1,0 +1,78 @@
+
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Jer Mendoza and Ari Ramchandran
+Being game project
+==============================
+
+Software Requirements Specification Document:
+---------------------------------------------
+-- Introduction Section
+   This section is excellent!  Very complete and explanatory.  Nothing to
+   add here.
+
+-- Functional Requirements
+   This is a good start, but you need more specificity in the requirement
+   statements.  Also, watch out for multiple requirements in one statement.
+   For example:
+
+   IS:
+   5.2.01.01 The Player Controller shall provide the player model with the
+             ability to move and interact with the game world.
+
+   SHOULD BE:
+   5.2.1.1  The Player Controller shall provide the player model with the
+            ability to move the player.
+   5.2.1.2  The Player Controller shall provide the player model with the
+            ability to interact with the game world.
+
+   Any time you see 'and' in a requirement, think in terms of splitting it
+   into two separate statements, or at least a "shall" and a "will".
+
+   For something as significant as this game, I would think you'd need more
+   than 17 functional requirements.  Think about all the parts you have
+   listed and how they interact.  For example, you have only two requirement
+   statements for your "models":
+
+   5.2.04.01 The Models will all have a similar 'low-poly' design to create
+             a cohesive aesthetic
+   5.2.04.02 The Models for the player and enemies will all be rigged and
+             properly animated (5.2.05)
+
+   But what is meant by 'similar' if you don't have a place somewhere to say
+   what the basis is for comparison?  What is meant by 'rigged'?  What is
+   meant by "properly" animated?  You have both players and enemies listed
+   in one requirement in 5.2.4.2 so that's a two-requirement statement.
+
+   Other things to think over ~ will the 'player controller' be the only way
+   to control things or will there be keyboard inputs to match?  What are
+   the challenges at the various levels?  What are some of the textures you
+   will use?  What is "mostly realistic sound"?  Is that something that will
+   change based on the surroundings?  What will enemies do to 'serve as a
+   barrier' and how many ways can they do that?  If more than one way, how
+   is that selected?
+
+   I think you get the idea...
+
+-- Performance Requirements
+   Unfortunately, it seems you have mixed 'performance' with 'environment'.
+   The requirements you have in this subsection are the environmental
+   needs for the project, so you can simply re-number then for that section
+   and be done with that.  But this section needs some requirements that
+   specify things like timing,
+
+-- Environment Requirements
+   See above.
+
+=============================================================================
+your score:  8% out of 10% which is a B.
+
+All in all, not a bad first effort, you just need to fill in more specifics.
+
+Don't get discouraged, NOBODY gets this stuff the first time, and you DO
+have a really good start!  It's just that you have a significant application
+which needs significant thought put into the requirements for it.
+
+Make the changes as suggested above for the second submission, including more
+requirements, and you'll get the full 10% on this document.
