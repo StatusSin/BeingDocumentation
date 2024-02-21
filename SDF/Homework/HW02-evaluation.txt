@@ -1,0 +1,52 @@
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Jer Mendoza and Ari Ramchandran
+Being game project
+Evaluation for homework02
+===============================
+
+5-1 component-based vs service-oriented             5 of  5 points
+5-2 most appropriate architecture for tictactoe     5 of  5 points
+5-4 internet chess appropriate architecture         5 of  5 points
+5-6 database for ClassyDraw                         5 of  5 points
+5-8 state machine diagram for floats                5 of 10 points
+6-1 compare/contrast ClassyDraw subclasses         10 of 10 points
+6-2 inheritance diagram from 6-1                   10 of 10 points
+
+
+Total possible score: 50 points
+
+EVALUATION
+============================================================================
+Your score: 45 out of 50 = 100.0% which is an A-plus
+
+Comments:
+---------
+Nice work on this assignment.
+
+On 5.6, do you REALLY need a database to store the drawing data?  I think it
+might be enough to simply have a file format that would save the data which
+would let the operating system file handing be responsible for data chores.
+The ClassyDraw application might save 'interim' files so that a system
+crash would not cause a loss of too much information.  I can see your point
+about using a database, though, since that would be able to store/retrieve
+data efficiently, too.
+
+On 5.8 you are supposed to DRAW the state diagram, not DESCRIBE the state
+diagram.  Your description is correct, but it's in language not drawing.
+
+On 6.2 this is an interesting diagram!  It's not actually showing subclasses
+from the class 'Drawable', but it is showing relationships between the class
+names.  It's an interesting approach even though it's not the standard way
+of doing an inheritance diagram.  Normally one would see boxes for every
+class, and the top box would have the common attributes which would be
+inherited by all the subclasses.  Subclass arrows would point from the lower
+boxes to the upper boxes to show the "is-a" relationship and would contain
+any unique attributes to those classes.  Your diagram is more of a "uses-a"
+diagram, in which a 'star' "uses-a" 'line'.  I think.... :D
+
+Still, points for originality!
+
+Pretty good job on this one, and you're doing well overall.  Keep it up!
+
