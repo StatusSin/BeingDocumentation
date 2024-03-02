@@ -53,3 +53,4 @@
 ### 4.4.1 PERT / GANTT Chart <br>
    **Refer to Being-Gantt-Chart.pdf
 ### 4.4.2 Task / Resource Table <br>
+  **Refer to semesterPlan.pdf
