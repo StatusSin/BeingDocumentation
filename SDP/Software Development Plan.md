@@ -15,7 +15,16 @@
   - Playspace generative code
   - Game mechanics code
 ### 4.2.1 Hardware Resources <br>
-  
+  - Computer Used to Develop:
+      - CPU: AMD 5950X3D
+      - GPU: Nvidia 4080
+      - RAM: 64GB DDR5
+      - SSD: 2TB
+  - Recommended Recoures for Play:
+      - CPU: Minimum i5–3570 or AMD equivalent
+      - GPU: Minimum GTX 1060
+      - RAM: Minimum 4GB
+      - SSD: Minimum 16GB
 ### 4.2.2 Software Resources <br>
   - Unity Editor 2022.3.15f1
   - Unity C#
@@ -23,6 +32,19 @@
 ## 4.3   Project Organization <br>
 
 ### 4.3.1 Jerahmeel Mendoza <br>
+  - Create playbases
+  - Create combat system
+  - Create UI/UX
+  - Debug
+
+### 4.3.2 Aryaman Ramchandran <br>
+  - Create enemy AI: basic enemies & bosses
+  - Assist with Music Soundtrack & Sound Design
+  - Work with an outsourced modeler for rigging
+  - Debug
+
+### 4.3.3 Outsourced <br>
+  A game requires many components, and we have created a team to assist with some of the various tasks a game could have. Please refer to the Semester Plan.pdf to see which aspects of the game people will be assisting.
 
 ## 4.4   Project Schedule <br>
 
