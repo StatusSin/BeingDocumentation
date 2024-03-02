@@ -32,9 +32,10 @@
 ## 4.3   Project Organization <br>
 
 ### 4.3.1 Jerahmeel Mendoza <br>
-  - Create playbases
-  - Create combat system
+  - Create playspaces & water physics
+  - Create a combat system
   - Create UI/UX
+  - Create dialogue system
   - Debug
 
 ### 4.3.2 Aryaman Ramchandran <br>
@@ -47,7 +48,8 @@
   A game requires many components, and we have created a team to assist with some of the various tasks a game could have. Please refer to the Semester Plan.pdf to see which aspects of the game people will be assisting.
 
 ## 4.4   Project Schedule <br>
-
+  **Refer to semesterPlan.pdf
+  NOTE: The project schedule will include the deliverables as well as our plan is only currently dated to mid-March and will be updated to the end of the semester at this midway point when we evaluate where we are at. 
 ### 4.4.1 PERT / GANTT Chart <br>
-
+   **Refer to Being-Gantt-Chart.pdf
 ### 4.4.2 Task / Resource Table <br>
