@@ -1,0 +1,33 @@
+
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Jer Mendoza and Ari Ramchandran
+Being game project
+=============================================
+
+Software Development Plan Document:
+---------------------------------------------
+-- General Comments
+   A bit short overall, but meets the necessary criteria.  I could get more
+   of an idea if there were more text descriptions....
+
+-- Introduction Section
+   Adequate, nothing else needed really.
+
+-- Project Resources Section
+   It would be good to have some descriptions here about what is going to be
+   included with these items.  The itemized list is good, though.
+
+-- Project Organization Section
+   Fine here, nothing to add.
+
+-- Project Schedule Section
+   Fine here, nothing to add.
+
+=============================================================================
+your score:  10% out of 10% which is an A-plus
+
+Nothing to add here, good as it is.
+
+Nice work!
